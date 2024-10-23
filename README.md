@@ -26,7 +26,7 @@ Tokenomics:
 Socials | Link
 ------------ | -------------
 Website | https://www.rbcat.xyz/
-Linktree | linktr.ee/RBCAT_BSC
+Linktree | https://linktr.ee/RBCAT_BSC
 Telegram | https://t.me/RBCAT_BSC
 Twitter | https://x.com/RBCAT_BSC
 Medium | https://medium.com/@rbcat
