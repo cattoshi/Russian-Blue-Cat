@@ -3,15 +3,15 @@ RBCAT is a deflationary token with 2% auto burn mechanism that had its ownership
 
 Released SEPTEMBER 21, 2024 on the Binance Smart Chain network, the RBCAT project has been iteratively built and improved upon by volunteers within the community since its inception. Graphic designers, writers, web developers, influencers, marketers, data analysts, translators, and more have contributed their talents to help RBCAT grow into an inspirational model of community-driven success.
 
-With so much progress achieved by its community in such a short amount of time, Pitbull stands as a solid milestone in this progressive, exciting age of the Social Blockchain.
+With so much progress achieved by its community in such a short amount of time, RBCAT stands as a solid milestone in this progressive, exciting age of the Social Blockchain.
 
 Tokenomics:
 
 * 21,000,000 initial total supply
 
-* 50% burnt to the black hole, which continually gets bigger from the fees
+* 100% RBCAT add to liquidity pool at launch, no team tokens
 
-* 700,000 max limit of Pit per trades
+* 700,000 max limit of RBCAT per trades
 
 * Tax 5% on buy and sell, no transfer tax
 
